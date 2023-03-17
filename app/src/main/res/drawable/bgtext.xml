@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <!-- warna background -->
+    <solid
+        android:color="#BB00e5ff" >  <!-- BB adalah 33% transparant dan 00ff00 adalah warna dominan-->
+    </solid>
+
+    <!-- ketebelan border dan warnanya -->
+    <stroke
+        android:width="2dp"
+        android:color="#ffc0cb" />
+
+
+    <corners android:radius="10dp" /><!-- untuk mengatur radius corner dari background -->
+
+
+</shape>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gemastik</string>
+    <string name="category_name">Nama Kategori Lomba</string>
+    <string name="category_detail">Detail Kategori Lomba</string>
+    <string name="category">Kategori Gemastik</string>
+    <string name="profile">About</string>
+</resources>
